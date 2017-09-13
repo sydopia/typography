@@ -2,7 +2,7 @@
 
 @font-face{
     font-family: blah;
-    src: url('../fonts/montserrat-bold.ttf');
+    src: url("../fonts/montserrat-bold.ttf");
 }
 
 
